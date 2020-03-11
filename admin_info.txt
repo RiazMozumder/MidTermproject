@@ -1,0 +1,4 @@
+admin_profile.JPG||231231|234234|P-1|fdasdf|sdfs|sdfs|Male
+admin_profile.JPG|Riaz|123456|01869949823|P-2|Dean|kuratoli Dhaka|kuratoli Dhaka|Male
+admin_profile.JPG|Anik|1234|01869949321|P-3|Debeloper|kuratoli Dhaka|kuratoli Dhaka|Male
+login.JPG|Mazumder|4321|mazumder@gamil.com|01324546|12345|Dean|kuratoli dhaka|Male
